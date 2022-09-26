@@ -1,0 +1,22 @@
+{
+  "name": "edufold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelongdiaz/edufold-project.git"
+  },
+  "keywords": [
+    "edufold"
+  ],
+  "author": "Marcelo Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelongdiaz/edufold-project/issues"
+  },
+  "homepage": "https://github.com/marcelongdiaz/edufold-project#readme"
+}
